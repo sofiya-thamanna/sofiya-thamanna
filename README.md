@@ -7,7 +7,7 @@
 ### 🌟 About Me
 
 - 🎓 BCA Student specializing in **Java**, **Python**, and **C++**
-- 💻 Experienced in **Web Development**, **App Development**, and **Backend Logic**
+- 💻 Hands on Pracice in **Web Development**, **App Development**, and **Backend Logic**
 - 🚀 Passionate about transforming ideas into innovative projects
 - 🌱 Currently exploring **advanced web technologies** and **data analysis**
 
@@ -27,8 +27,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sofiyathamanna&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiyathamanna&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sofiya-thamanna&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiya-thamanna&theme=radical" />
 </p>
 
 ---
